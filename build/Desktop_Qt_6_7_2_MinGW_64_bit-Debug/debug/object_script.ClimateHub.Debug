@@ -1,0 +1,15 @@
+debug/mainwindow.o
+debug/sensorinputdialog.o
+debug/simulationvisitor.o
+debug/cloudiness.o
+debug/dust.o
+debug/humidity.o
+debug/main.o
+debug/managersensor.o
+debug/sensor.o
+debug/sensorvisitor.o
+debug/temperature.o
+debug/wind.o
+debug/qrc_Resources.o
+debug/moc_mainwindow.o
+debug/moc_sensorinputdialog.o

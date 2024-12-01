@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/exit.png</file>
+        <file>Images/help.png</file>
+        <file>Images/logo.png</file>
+        <file>Images/menu.png</file>
+        <file>Images/open.png</file>
+        <file>Images/save.png</file>
+        <file>Images/dust.png</file>
+        <file>Images/humidity.png</file>
+        <file>Images/temperature.png</file>
+        <file>Images/wind.png</file>
+        <file>Images/cloudiness.png</file>
+    </qresource>
+</RCC>

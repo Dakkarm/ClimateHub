@@ -1,0 +1,15 @@
+release/mainwindow.o
+release/sensorinputdialog.o
+release/simulationvisitor.o
+release/cloudiness.o
+release/dust.o
+release/humidity.o
+release/main.o
+release/managersensor.o
+release/sensor.o
+release/sensorvisitor.o
+release/temperature.o
+release/wind.o
+release/qrc_Resources.o
+release/moc_mainwindow.o
+release/moc_sensorinputdialog.o
